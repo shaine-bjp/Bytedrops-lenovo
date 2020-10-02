@@ -1,0 +1,22 @@
+{
+  "name": "bytedrops-lenovo",
+  "version": "1.0.0",
+  "description": "Creating Bytedrops New Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaine-bjp/Bytedrops-lenovo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaine-bjp/Bytedrops-lenovo/issues"
+  },
+  "homepage": "https://github.com/shaine-bjp/Bytedrops-lenovo#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
